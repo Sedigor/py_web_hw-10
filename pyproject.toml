@@ -9,6 +9,8 @@ packages = [{include = "py_web_hw_10"}]
 [tool.poetry.dependencies]
 python = "^3.11"
 django = "^4.2.5"
+pymongo = "^4.5.0"
+mongoengine = "^0.27.0"
 
 
 [build-system]
